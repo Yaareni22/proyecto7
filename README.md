@@ -1,1 +1,2 @@
 # proyecto7
+En este proyecto se pide crear una aplicación web que muestre en gráficos como histograma y dispersión los datos del analisis de venta de vehículos, donde el usuario puede seleccionar una casilla de verificación dependiendo el gráfico que desee observar.
